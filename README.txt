@@ -18,5 +18,3 @@ Dataset
 UCI Student Performance: https://archive.ics.uci.edu/dataset/320/student+performance
 Cortez & Silva (2008), DOI: 10.24432/C5TG7T
 
-Academic integrity
-The paper is an original draft, not a guarantee of a zero similarity score. Verify all references, run the code, insert actual results, personalize the discussion, and follow your institution's citation and AI-use policies. Do not submit unexecuted placeholder results as findings.
